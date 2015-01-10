@@ -13,4 +13,5 @@ isPrime<- function(x){
 	  cat("Not a prime! First divisor is ", divisor)
 	else
 		print("Yes, it is  prime!")
+# EOF
 }
